@@ -75,7 +75,3 @@ To run tests:
 ```
 dotnet test
 ```
-
-## License
-
-[Specify license if applicable]
